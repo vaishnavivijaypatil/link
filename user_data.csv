@@ -1,0 +1,5 @@
+ First name,Middle name,Last name,Email-id,Phone no,Date of birth,Course,Image
+Vaishnavi,Vijay,Patil,vp216021@gmail.com,8391667881,8/15/2008,"DeltaGenerator(_provided_cursor=RunningCursor(_parent_path=(3, 1), _index=1), _parent=DeltaGenerator(_provided_cursor=RunningCursor(_parent_path=(3,), _index=2), _parent=DeltaGenerator(), _block_type='flex_container', _form_data=FormData(form_id='')), _block_type='column', _form_data=FormData(form_id=''))","UploadedFile(file_id='df485ae5-5ede-40eb-9f4c-2dbad1055395', name='j38.6.png', type='image/png', size=163453, _file_urls=file_id: ""df485ae5-5ede-40eb-9f4c-2dbad1055395""
+upload_url: ""/_stcore/upload_file/af14e10e-2d83-4a30-9ad9-767cbb463110/df485ae5-5ede-40eb-9f4c-2dbad1055395""
+delete_url: ""/_stcore/upload_file/af14e10e-2d83-4a30-9ad9-767cbb463110/df485ae5-5ede-40eb-9f4c-2dbad1055395""
+)"
